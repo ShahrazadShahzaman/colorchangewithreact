@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/colorchangewithreact/static/css/main.8781d750.css",
+    "main.js": "/colorchangewithreact/static/js/main.20b67329.js",
+    "index.html": "/colorchangewithreact/index.html",
+    "main.8781d750.css.map": "/colorchangewithreact/static/css/main.8781d750.css.map",
+    "main.20b67329.js.map": "/colorchangewithreact/static/js/main.20b67329.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8781d750.css",
+    "static/js/main.20b67329.js"
+  ]
+}
